@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 import Link from "next/link";
 
 const IndexPage = () => (
