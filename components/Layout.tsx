@@ -128,26 +128,26 @@ const Layout = ({ children, title = "This is the default title" }: Props) => {
           <div className="footer-flex">
             <div className="sm:order-12 w-1/2 sm:w-full">
               <div className="icon-holder1 flex">
-                <a href="https://facebook.com/wisdom.osara">
+                <a href="https://facebook.com/ajulor.christian" target="_blank">
                   <img src="images/bx_bxl-facebook.png"></img>
                 </a>
-                <a href="https://sandbox.com">
+                <a href="https://sandbox.com" target="_blank">
                   <img src="images/cib_codesandbox.png"></img>
                 </a>
-                <a href="https://github.com/wisdomosara">
+                <a href="https://github.com/christian-freshness" target="_blank">
                   <img src="images/ant-design_github-outlined.png"></img>
                 </a>
-                <a href="https://twitter.com/OsaraWisdom">
+                <a href="https://twitter.com/AjulorC" target="_blank">
                   <img src="images/ant-design_twitter-outlined.png"></img>
                 </a>
-                <a href="https://behance.com">
+                <a href="https://behance.com" target="_blank">
                   <img src="images/ant-design_behance-outlined.png"></img>
                 </a>
               </div>
             </div>
             <div className="w-1/2 sm:w-full sm:order-1 ">
               <p>
-                <span>&copy; Wisdom Osara</span>
+                <span>&copy; Ajulor Christian</span>
               </p>
             </div>
           </div>
