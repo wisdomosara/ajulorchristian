@@ -9,30 +9,28 @@ export default function Services() {
       <div className="container xl:px-24">
         <div className="flex flex-wrap justify-around">
           <div className="services-items shadow ">
-            <img src="images/carbon_earth.png" className="mb-4 mt-2"></img>
-            <h4 className="mb-2">WEB DEVELOPMENT</h4>
+            <img src="images/data analysis 3.png" className="mb-4 mt-2"></img>
+            <h4 className="mb-2">DATA ANALYSIS</h4>
             <div className="line mb-4"></div>
             <p className="text-center">
-              A very professional front-end web developer with enthusiasm for
-              Full Stack Web Development.
+              A very professional Data scientist familiar with Python, also with skills in exploratory data analysis(EDA).
             </p>
           </div>
           <div className="services-items shadow ">
-            <img src="images/bx_bx-image.png" className="mb-4 mt-2"></img>
-            <h4 className="mb-2">PIXEL PERFECT</h4>
+            <img src="images/ml3.png" className="mb-4 mt-2"></img>
+            <h4 className="mb-2">MACHINE LEARNING</h4>
             <div className="line mb-4"></div>
             <p className="text-center">
-              All my works are pixel perfect and they match design with 100%
-              conversion.
+              I have a good experience in coding machine learning pipelines and algorithms.
             </p>
           </div>
           <div className="services-items shadow ">
-            <img src="images/bi_toggles.png" className="mb-4 mt-2"></img>
-            <h4 className="mb-2">RESPONSIVENESS</h4>
+            <img src="images/tensorflow2.png" className="mb-4 mt-2"></img>
+            <h4 className="mb-2">TENSORFLOW</h4>
             <div className="line mb-4"></div>
             <p className="text-center">
-              All my works are responsive on all screensizes from small to extra
-              large screensizes.
+              I have a good knowledge and experience using Tensorflow and its 
+              important tools and libraries.
             </p>
           </div>
           <div
@@ -40,12 +38,12 @@ export default function Services() {
             data-wow-duration="0.8"
             data-wow-delay="0.3s"
           >
-            <img src="images/bi_window.png" className="mb-4 mt-2"></img>
-            <h4 className="mb-2">REACTJS</h4>
+            <img src="images/sklearn2.png" className="mb-4 mt-2"></img>
+            <h4 className="mb-2">SCIKIT LEARN</h4>
             <div className="line mb-4"></div>
             <p className="text-center">
-              I also come with sound knowledge and experience in Reactjs and its
-              important plugins.
+              I also come with sound knowledge and experience in scikit learn module and its
+              various classification and regression algorithms.
             </p>
           </div>
           <div
@@ -53,12 +51,11 @@ export default function Services() {
             data-wow-duration="0.8"
             data-wow-delay="0.3s"
           >
-            <img src="images/bx_bx-image.png" className="mb-4 mt-2"></img>
-            <h4 className="mb-2">MORE THAN DESIGN</h4>
+            <img src="images/django4.png" className="mb-4 mt-2"></img>
+            <h4 className="mb-2">BACK-END DEV WITH DJANGO</h4>
             <div className="line mb-4"></div>
             <p className="text-center">
-              I also don't just do the design part of front end, I develop using
-              Javascript, Jquery, APIs and more.
+              i have a good knowledge and experience in Back-end developing using django.
             </p>
           </div>
           <div

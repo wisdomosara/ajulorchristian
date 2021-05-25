@@ -12,14 +12,14 @@ export default function Contact() {
           <h4 className="text-center heading">Contact</h4>
           <h2 className="text-center">I'd Love To Hear From You.</h2>
           <p className="text-center">
-            i'm always open to discussing product design work or partnership.
+            i'm always open to discussing about data science or partnership.
           </p>
         </div>
         <form
           className="container flex flex-col justify-center items-center px-5 wow fadeInUp mb-5"
           data-wow-duration="0.5"
           data-wow-delay="0.4s"
-          action="mailto:wisdomosara@gmail.com?subject=Getting in touch with Wisdom from Website"
+          action="mailto:christianajulor@gmail.com?subject=Getting in touch with christian from Website"
           method="post"
           encType="text/plain"
         >
@@ -52,7 +52,7 @@ export default function Contact() {
             data-wow-delay="0.3s"
           >
             <a
-              href="https://wa.me/+2348187190727"
+              href="https://wa.me/+2348134190172"
               target="blank"
               className="flex items-center justify-center flex-col"
             >
@@ -71,7 +71,7 @@ export default function Contact() {
             data-wow-delay="0.3s"
           >
             <a
-              href="mailto:wisdomosara@gmail.com?subject=Getting in touch with Wisdom from Website"
+              href="mailto:christianajulor@gmail.com?subject=Getting in touch with christian from Website"
               className="flex items-center justify-center flex-col"
             >
               <img src="images/carbon_email.png" className="mb-4 mt-2"></img>
@@ -87,7 +87,7 @@ export default function Contact() {
             <img src="images/ic_round-call.png" className="mb-4 mt-2"></img>
             <p className="mb-2">CALL ME AT</p>
             <p className="text-center">
-              Phone: (+234) 8187190727 Mobile:(+234) 8113036383
+              Phone: (+234) 8134190172 Mobile:(+234) 8134190172
             </p>
           </div>
         </div>

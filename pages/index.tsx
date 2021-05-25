@@ -39,19 +39,19 @@ const IndexPage = () => (
         </div>
       </div>
       <div className="flex absolute left-1/2 transform -translate-x-1/2 icon-holder text-center">
-        <a href="https://facebook.com/wisdom.osara">
+        <a href="https://facebook.com/ajulor.christian" target="_blank"> 
           <img src="images/bx_bxl-facebook.png"></img>
         </a>
-        <a href="https://sandbox.com">
+        <a href="https://sandbox.com" target="_blank">
           <img src="images/cib_codesandbox.png"></img>
         </a>
-        <a href="https://github.com/wisdomosara">
+        <a href="https://github.com/christian-freshness" target="_blank">
           <img src="images/ant-design_github-outlined.png"></img>
         </a>
-        <a href="https://twitter.com/OsaraWisdom">
+        <a href="https://twitter.com/AjulorC" target="_blank">
           <img src="images/ant-design_twitter-outlined.png"></img>
         </a>
-        <a href="https://behance.com">
+        <a href="https://behance.com" target="_blank">
           <img src="images/ant-design_behance-outlined.png"></img>
         </a>
       </div>
