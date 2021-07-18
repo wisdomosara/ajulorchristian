@@ -16,7 +16,7 @@ export default function About() {
               I'm a data scientist familiar with gathering,cleaning and organizing data.
               Highly organized and proficient using Python, skilled in machine learning using scikit learn and tensorflow.
               I'm also a Backend engineer familiar with django. I love learning new things and quickly too.
-              And i love to code{" "}
+              And i love to code!.{" "}
             </p>
           </div>
         </div>
@@ -57,7 +57,7 @@ export default function About() {
                 <button className="btn1 shadow">HIRE ME</button>
               </a>
             </Link>
-            <a href="/Christian's Resume..pdf" target="/blank">
+            <a href="/Christian's Resume.pdf" target="/blank">
               <button
                 className="btn2 shadow wow fadeInRight"
                 data-wow-duration="0.5"

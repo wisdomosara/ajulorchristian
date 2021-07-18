@@ -27,7 +27,7 @@ export default function Resume() {
                 I ventured into the dimension of Data Science shortly after
                 starting my national youth Service. I've used alot of online
                 resources and hands on projects to be the Data scientist/backend developer
-                i am today. Some of the resources are: ZerotoMastery, Hamoye Ai,
+                i am today. Some of the resources are: ZerotoMastery.ai, Hamoye Ai,
                 W3schools, Youtube videos, Udemy Courses etc.
               </p>
             </div>

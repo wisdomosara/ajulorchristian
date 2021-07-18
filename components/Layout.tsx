@@ -18,7 +18,7 @@ type Props = {
   title?: string;
 };
 
-const Layout = ({ children, title = "This is the default title" }: Props) => {
+const Layout = ({ children, title = "Christian's Portfolio" }: Props) => {
   const [clicked, setClicked] = useState<boolean>(false);
   const router = useRouter();
 
