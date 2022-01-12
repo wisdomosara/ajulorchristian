@@ -68,6 +68,35 @@ export default function Portfolio() {
       <div className=" mb-5">
         <div className="flex mb-12 flex-col md:flex-row">
           <div
+            className="w-full md:w-1/2 md:order-12"
+            data-wow-duration="1s"
+            data-wow-delay="0.6s"
+          >
+            <a href="https://github.com/christian-freshness/NLP-question-Answering-Model" target="blank">
+              <div className="portfolio portfolio2 shadow">
+                <img src="images/NLP1-1024x542.jpeg" width="100%"></img>
+              </div>
+            </a>
+          </div>
+          <div
+            className="w-full portfolio-text text-md-right md:w-1/2 md:order-1 mr-12"
+            data-wow-duration="0.7s"
+            data-wow-delay="0.6s"
+          >
+            <h4 className="my-2">NLP Question-Answering Model</h4>
+            <h5 className="mb-3">NATURAL LANGUAGE PROCESSING | DEEP LEARNING</h5>
+            <p>
+              This is a personal project i did which entails
+              extracting Text data from wikipedia about the past 46 Presidents of United States of America 
+              and then building an NLP question-Answering 
+              Model using the hugging-face API.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className=" mb-5">
+        <div className="flex mb-12 flex-col md:flex-row">
+          <div
             className="w-full md:w-1/2"
             data-wow-duration="1s"
             data-wow-delay="0.6s"

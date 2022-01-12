@@ -25,7 +25,7 @@ const IndexPage = () => (
           data-wow-duration="0.5"
           data-wow-delay="1.2s"
         >
-          Data Scientist & Backend Engineer
+          Data Scientist
         </p>
         <div className=" text-center mt-2 mb-5 ">
           <button
@@ -39,8 +39,8 @@ const IndexPage = () => (
         </div>
       </div>
       <div className="flex absolute left-1/2 transform -translate-x-1/2 icon-holder text-center">
-        <a href="https://facebook.com/ajulor.christian" target="_blank"> 
-          <img src="images/bx_bxl-facebook.png"></img>
+        <a href="https://www.linkedin.com/in/christian-ajulor" target="_blank"> 
+          <img src="images/Linkedin-Logo-PNG-Black-Circle-28x28.png"></img>
         </a>
         <a href="https://sandbox.com" target="_blank">
           <img src="images/cib_codesandbox.png"></img>

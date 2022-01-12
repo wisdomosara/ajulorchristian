@@ -57,7 +57,7 @@ export default function About() {
                 <button className="btn1 shadow">HIRE ME</button>
               </a>
             </Link>
-            <a href="/Christian's Resume.pdf" target="/blank">
+            <a href="/Christian's CV.pdf" target="/blank">
               <button
                 className="btn2 shadow wow fadeInRight"
                 data-wow-duration="0.5"

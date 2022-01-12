@@ -46,7 +46,13 @@ export default function Resume() {
               <p>
                 Six months on a rigorous, fast paced and project based
                 internship to improve on existing skills and learn more. I developed
-                and worked on several data and machine learning models.
+                and worked on several data and machine learning models. {" "}
+                <a
+                  target="blank"
+                  href="/CHRISTIAN AJULOR Certificate.pdf"
+                >
+                  view certificate
+                </a>
               </p>
             </div>
           </div>
@@ -72,7 +78,7 @@ export default function Resume() {
           <div className="exp-item container">
             <div className="exp-left">
               <h4>Introduction to Python for Machine Learning</h4>
-              <p>july 2020</p>
+              <p>August 2021</p>
             </div>
             <div className="exp-middle">
               <img src="images/fa-solid_graduation-cap.png" />
@@ -95,7 +101,7 @@ export default function Resume() {
           <div className="exp-item container">
             <div className="exp-left">
               <h4>Machine Learning: Regression - Predicting Energy Efficiency of Buildings</h4>
-              <p>August 2020</p>
+              <p>September 2021</p>
             </div>
             <div className="exp-middle">
               <img src="images/fa-solid_graduation-cap.png" />
@@ -111,7 +117,7 @@ export default function Resume() {
                   target="blank"
                   href="/certificate-CHRISTIAN+AJULOR-Machine+Learning_+Regression+-+Predicting+Energy+Efficiency+of+Buildings.pdf"
                 >
-                  here
+                  click to view certificate
                 </a>
               </p>
             </div>
@@ -119,7 +125,7 @@ export default function Resume() {
           <div className="exp-item container">
             <div className="exp-left">
               <h4>Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint</h4>
-              <p>August 2020</p>
+              <p>October 2021</p>
             </div>
             <div className="exp-middle">
               <img src="images/fa-solid_graduation-cap.png" />
@@ -136,7 +142,55 @@ export default function Resume() {
                   target="blank"
                   href="/certificate-CHRISTIAN+AJULOR-Machine+Learning_+Classification+-+Managing+the+Quality+Metric+of+Global+Ecological+Footprint.pdf"
                 >
-                  here
+                  click to view certificate
+                </a>
+              </p>
+            </div>
+          </div>
+          <div className="exp-item container">
+            <div className="exp-left">
+              <h4>Neural Networks, Image Recognition and Object Detection - The Amazon Deforestation from Space</h4>
+              <p>October 2021</p>
+            </div>
+            <div className="exp-middle">
+              <img src="images/fa-solid_graduation-cap.png" />
+            </div>
+            <div className="exp-right">
+              <h4>Hamoye.com</h4>
+              <div className="line mb-4"></div>
+              <p>
+              In this course, I explored the building blocks of neural networks, which are versatile, powerful, 
+              and scalable. I learnt how to use them to tackle complex problems like the use of convolutional 
+              neural networks for image recognition.{" "}
+                <a
+                  target="blank"
+                  href="/certificate-CHRISTIAN+AJULOR-Neural+Networks,+Image+Recognition+and+Object+Detection+-+The+Amazon+Deforestation+from+Space.pdf"
+                >
+                  click to view certificate
+                </a>
+              </p>
+            </div>
+          </div>
+          <div className="exp-item container">
+            <div className="exp-left">
+              <h4>Practical Time Series Analysis - Forecasting Individual Household Electric Power Consumption</h4>
+              <p>November 2021</p>
+            </div>
+            <div className="exp-middle">
+              <img src="images/fa-solid_graduation-cap.png" />
+            </div>
+            <div className="exp-right">
+              <h4>Hamoye.com</h4>
+              <div className="line mb-4"></div>
+              <p>
+              In this course, I explored and built time series forecasting models for measurements 
+              of electric power consumption in one household with a one-minute sampling rate 
+              over a period of almost 4 years.{" "}
+                <a
+                  target="blank"
+                  href="/certificate-CHRISTIAN+AJULOR-Practical+Time+Series+Analysis +-+Forecasting+Individual+Household+Electric+Power+Consumption.pdf"
+                >
+                  click to view certificate
                 </a>
               </p>
             </div>
