@@ -128,8 +128,8 @@ const Layout = ({ children, title = "Christian's Portfolio" }: Props) => {
           <div className="footer-flex">
             <div className="sm:order-12 w-1/2 sm:w-full">
               <div className="icon-holder1 flex">
-                <a href="https://facebook.com/ajulor.christian" target="_blank">
-                  <img src="images/bx_bxl-facebook.png"></img>
+                <a href="https://www.linkedin.com/in/christian-ajulor" target="_blank">
+                  <img src="images/Linkedin-Logo-PNG-Black-Circle-28x28.png"></img>
                 </a>
                 <a href="https://sandbox.com" target="_blank">
                   <img src="images/cib_codesandbox.png"></img>
