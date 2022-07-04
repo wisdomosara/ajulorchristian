@@ -10,10 +10,11 @@ export default function Services() {
         <div className="flex flex-wrap justify-around">
           <div className="services-items shadow ">
             <img src="images/data analysis 3.png" className="mb-4 mt-2"></img>
-            <h4 className="mb-2">DATA ANALYSIS</h4>
+            <h4 className="mb-2">DATA VIZ and ANALYSIS</h4>
             <div className="line mb-4"></div>
             <p className="text-center">
-              A very professional Data scientist familiar with Python, also with skills in exploratory data analysis(EDA).
+              A very professional Data scientist/Analyst familiar with Python, SQL, also with 
+              skills in exploratory data analysis(EDA) using Power BI, Pandas and NumPy.
             </p>
           </div>
           <div className="services-items shadow ">
@@ -55,7 +56,7 @@ export default function Services() {
             <h4 className="mb-2">BACK-END DEV WITH DJANGO</h4>
             <div className="line mb-4"></div>
             <p className="text-center">
-              i have a good knowledge and experience in Back-end developing using django.
+              I have a good knowledge and experience in Back-end development using django.
             </p>
           </div>
           <div

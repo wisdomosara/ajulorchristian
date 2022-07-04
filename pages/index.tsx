@@ -25,7 +25,7 @@ const IndexPage = () => (
           data-wow-duration="0.5"
           data-wow-delay="1.2s"
         >
-          Data Scientist
+          Data Scientist | Data Analyst | Backend Dev (Python)
         </p>
         <div className=" text-center mt-2 mb-5 ">
           <button
