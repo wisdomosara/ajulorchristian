@@ -21,12 +21,12 @@ export default function Resume() {
               <img src="images/bi_briefcase.png" />
             </div>
             <div className="exp-right">
-              <h4>SELF TAUGHT</h4>
+              <h4>FREELANCE</h4>
               <div className="line mb-4"></div>
               <p>
                 I ventured into the dimension of Data Science shortly after
                 starting my national youth Service. I've used alot of online
-                resources and hands on projects to be the Data scientist/backend developer
+                resources and hands on projects to be the Data scientist/Analyst/backend developer
                 i am today. Some of the resources are: ZerotoMastery.ai, Hamoye Ai,
                 W3schools, Youtube videos, Udemy Courses etc.
               </p>
@@ -34,25 +34,65 @@ export default function Resume() {
           </div>
           <div className="exp-item container">
             <div className="exp-left">
-              <h4>Hamoye Ai Intern</h4>
+              <h4>Data Scientist</h4>
+              <p>2021 - 2022</p>
+            </div>
+            <div className="exp-middle">
+              <img src="images/bi_briefcase.png" />
+            </div>
+            <div className="exp-right">
+              <h4>MavenCode, Texas, USA</h4>
+              <div className="line mb-4"></div>
+              <p>
+                Built and deployed predictive models.
+                Worked with infrastructure as a code software tools like Terraform.
+                Worked closely with the business to identify issues and used data to
+                propose solutions for effective decision making.
+              </p>
+            </div>
+          </div>
+          <div className="exp-item container">
+            <div className="exp-left">
+              <h4>Hamoye Data Intern</h4>
               <p>June 2020 - Dec 2020</p>
             </div>
             <div className="exp-middle">
               <img src="images/bi_briefcase.png" />
             </div>
             <div className="exp-right">
-              <h4>Hamoye Ai</h4>
+              <h4>Hamoye AI</h4>
               <div className="line mb-4"></div>
               <p>
                 Six months on a rigorous, fast paced and project based
-                internship to improve on existing skills and learn more. I developed
-                and worked on several data and machine learning models. {" "}
+                internship to improve on existing skills and learn more. Created data visualization graphics, translating complex data sets into
+                comprehensive visual representations. Worked on several open-source projects. Applied statistical and algebraic 
+                techniques to interpret key points from gathered data. Used machine learning algorithms to analyze and solve complex business
+                problems. {" "}
                 <a
                   target="blank"
                   href="/CHRISTIAN AJULOR Certificate.pdf"
                 >
                   view certificate
                 </a>
+              </p>
+            </div>
+          </div>
+          <div className="exp-item container">
+            <div className="exp-left">
+              <h4>BUSINESS DEVELOPMENT ANALYST</h4>
+              <p>June 2019 - May 2020</p>
+            </div>
+            <div className="exp-middle">
+              <img src="images/bi_briefcase.png" />
+            </div>
+            <div className="exp-right">
+              <h4>SAFETY ENVTOXIN NIG LTD.</h4>
+              <div className="line mb-4"></div>
+              <p>
+                Gathered, organized and modeled data to assist management in making
+                key decisions.
+                Tracked and analyzed reports to determine needed improvements.
+                Generated reports of findings to help management with making key decisions.
               </p>
             </div>
           </div>

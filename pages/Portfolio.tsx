@@ -8,6 +8,38 @@ export default function Portfolio() {
       <div className=" mb-5">
         <div className="flex flex-col md:flex-row mb-12">
           <div className="w-full md:w-1/2 md:order-1">
+            <a href="https://huggingface.co/spaces/AjulorC/question_answering_bot_deployed_with_Gradio" target="blank">
+              <div className="portfolio portfolio1 shadow">
+                <img src="images/nlp app.PNG" width="100%"></img>
+              </div>
+            </a>
+          </div>
+          <div
+            className="w-full portfolio-text md:w-1/2 md:order-12 md:ml-12"
+            data-wow-duration="0.7s"
+            data-wow-delay="0.6s"
+          >
+            <h4 className="my-2">NLP Question-Answering AI Web App</h4>
+            <h5 className="mb-3">NATURAL LANGUAGE PROCESSING</h5>
+            <p>
+            I built and Deployed a Question-Answer NLP model as a Web app using Gradio GUI. 
+            I made use of HuggingFace pre-trained model, Gradio GUI, Pandas, and hosted on HuggingFace spaces. {" "}
+            <a href="https://huggingface.co/spaces/AjulorC/question_answering_bot_deployed_with_Gradio" target="/blank"> 
+                <button className="btn2"> Link to App </button>
+            </a>, {" "}
+            <a href="https://github.com/christian-freshness/NLP-Web-App-deployment-using-Gradio" target="/blank"> 
+                <button className="btn2"> Github Repository </button>
+            </a>, {" "}
+            <a href="https://medium.com/@christianajulor/how-to-build-and-deploy-a-question-answering-ai-web-app-5a3941347b19" target="/blank"> 
+                <button className="btn2"> My article on medium </button>
+            </a>.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className=" mb-5">
+        <div className="flex flex-col md:flex-row mb-12">
+          <div className="w-full md:w-1/2 md:order-1">
             <a href="https://github.com/christian-freshness/Dog-Breed-identification/blob/main/Dog_vision.ipynb" target="blank">
               <div className="portfolio portfolio1 shadow">
                 <img src="images/dog-vision2.png" width="100%"></img>
@@ -61,6 +93,106 @@ export default function Portfolio() {
               <a href="https://archive.ics.uci.edu/ml/datasets.php" target="/blank">
                 <button className="btn2"> CLEVELAND DATABASE. </button>
               </a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className=" mb-5">
+        <div className="flex mb-12 flex-col md:flex-row">
+          <div
+            className="w-full md:w-1/2"
+            data-wow-duration="1s"
+            data-wow-delay="0.6s"
+          >
+            <a href="https://github.com/christian-freshness/Predicting-Hospital-inpatient-Length-of-Stay" target="blank">
+              <div className="portfolio portfolio3 shadow">
+                <img src="images/Schizophrenia.jpg" width="100%"></img>
+              </div>
+            </a>
+          </div>
+          <div
+            className="w-full portfolio-text md:w-1/2 wow fadeInUp md:ml-12"
+            data-wow-duration="0.7"
+            data-wow-delay="0.6s"
+          >
+            <h4 className="my-2">Predicting Hospital Inpatient length of Stay</h4>
+            <h5 className="mb-3">MACHINE LEARNING REGRESSION | SCIKIT LEARN</h5>
+            <p>
+              Using Machine Learning to Predict Hospital Length of stay(admission days) 
+              for Patients with SCHIZOPHRENIA and other PSYCHOTIC DISORDERS. The ability to predict how long a patient will stay, 
+              only with information available as soon as they enter the hospital and are diagnosed, can therefore have many positive effects for 
+              a hospital and its efficiency. A model that can predict patient length of stay could allow hospitals to better analyze the factors 
+              that influence length of stay the most.{" "}
+              <a href="https://medium.com/@christianajulor/predicting-hospital-length-of-stay-for-inpatients-diagnosed-with-schizophrenia-and-other-psychotic-bf02c50db0c" target="/blank"> 
+                <button className="btn2"> My article on medium </button>
+            </a>.
+              The data was gotten from {" "}
+              <a href="https://health.data.ny.gov/dataset/Hospital-Inpatient-Discharges-SPARCS-De-Identified/22g3-z7e7" target="/blank">
+                <button className="btn2"> NY Hospital Inpatient Discharges dataset. </button>
+              </a> 
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className=" mb-5">
+        <div className="flex mb-12 flex-col md:flex-row">
+          <div
+            className="w-full md:w-1/2 md:order-12"
+            data-wow-duration="1s"
+            data-wow-delay="0.6s"
+          >
+            <a href="https://github.com/christian-freshness/ZuChat" target="blank">
+              <div className="portfolio portfolio2 shadow">
+                <img src="images/zuri chat.PNG" width="100%"></img>
+              </div>
+            </a>
+          </div>
+          <div
+            className="w-full portfolio-text text-md-right md:w-1/2 md:order-1 mr-12"
+            data-wow-duration="0.7s"
+            data-wow-delay="0.6s"
+          >
+            <h4 className="my-2">ZuChat App</h4>
+            <h5 className="mb-3">BACKEND DEVELOPMENT | DJANGO</h5>
+            <p>
+            Zuchat is a real-time chat App built with Python and Django.
+            You can chat with anybody in a room (like group) that is connected in the same chat room.
+            Multiple rooms can also be created. {" "}
+            <a href="https://myzuchatapp.herokuapp.com/" target="/blank"> 
+                <button className="btn2"> Link to App </button>
+            </a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className=" mb-5">
+        <div className="flex mb-12 flex-col md:flex-row">
+          <div
+            className="w-full md:w-1/2"
+            data-wow-duration="1s"
+            data-wow-delay="0.6s"
+          >
+            <a href="https://github.com/christian-freshness/EDA-on-Reviews-Text-Data" target="blank">
+              <div className="portfolio portfolio3 shadow">
+                <img src="images/reviews text.png" width="100%"></img>
+              </div>
+            </a>
+          </div>
+          <div
+            className="w-full portfolio-text md:w-1/2 wow fadeInUp md:ml-12"
+            data-wow-duration="0.7"
+            data-wow-delay="0.6s"
+          >
+            <h4 className="my-2">EDA on Reviews Text Data</h4>
+            <h5 className="mb-3">EXPLORATORY DATA ANALYSIS | NATURAL LANGUAGE PROCESSING</h5>
+            <p>
+            This project entails the exploratory data analysis and natural language processing (NLP) 
+            i carried out on women's e-commerce clothing reviews(text).
+            Libraries used includes Numpy, Pandas, Matplotlib, Plotly and Seaborn.
+            The data was gotten from {" "}
+              <a href="https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews" target="/blank">
+                <button className="btn2"> KAGGLE. </button>
+              </a> 
             </p>
           </div>
         </div>
@@ -214,38 +346,6 @@ export default function Portfolio() {
       <div className=" mb-5">
         <div className="flex mb-12 flex-col md:flex-row">
           <div
-            className="w-full md:w-1/2"
-            data-wow-duration="1s"
-            data-wow-delay="0.6s"
-          >
-            <a href="https://github.com/christian-freshness/EDA-on-Reviews-Text-Data" target="blank">
-              <div className="portfolio portfolio3 shadow">
-                <img src="images/reviews text.png" width="100%"></img>
-              </div>
-            </a>
-          </div>
-          <div
-            className="w-full portfolio-text md:w-1/2 wow fadeInUp md:ml-12"
-            data-wow-duration="0.7"
-            data-wow-delay="0.6s"
-          >
-            <h4 className="my-2">EDA on Reviews Text Data</h4>
-            <h5 className="mb-3">EXPLORATORY DATA ANALYSIS | NATURAL LANGUAGE PROCESSING</h5>
-            <p>
-            This project entails the exploratory data analysis and natural language processing (NLP) 
-            i carried out on women's e-commerce clothing reviews(text).
-            Libraries used includes Numpy, Pandas, Matplotlib, Plotly and Seaborn.
-            The data was gotten from {" "}
-              <a href="https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews" target="/blank">
-                <button className="btn2"> KAGGLE. </button>
-              </a> 
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className=" mb-5">
-        <div className="flex mb-12 flex-col md:flex-row">
-          <div
             className="w-full md:w-1/2 md:order-12"
             data-wow-duration="1s"
             data-wow-delay="0.6s"
@@ -302,6 +402,35 @@ export default function Portfolio() {
               <a href="https://www.kaggle.com/c/titanic/data" target="/blank">
                 <button className="btn2"> KAGGLE. </button>
               </a> 
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className=" mb-5">
+        <div className="flex mb-12 flex-col md:flex-row">
+          <div
+            className="w-full md:w-1/2 md:order-12"
+            data-wow-duration="1s"
+            data-wow-delay="0.6s"
+          >
+            <a href="https://github.com/christian-freshness/Great-Motors-Car-Price-Prediction" target="blank">
+              <div className="portfolio portfolio2 shadow">
+                <img src="images/car price.png" width="100%"></img>
+              </div>
+            </a>
+          </div>
+          <div
+            className="w-full portfolio-text text-md-right md:w-1/2 md:order-1 mr-12"
+            data-wow-duration="0.7s"
+            data-wow-delay="0.6s"
+          >
+            <h4 className="my-2">Great Motors Car Price Prediction</h4>
+            <h5 className="mb-3">MACHINE LEARNING REGRESSION | SCIKIT LEARN</h5>
+            <p>
+              A Nigerian automobile company, Great Motors. The objective of the challenge is to predict the 
+              price (Amount (Million Naira)) the company should sell a car based on the available 
+              data (Location, Maker, Model, Year, Color, Amount (Million Naira), Type, Distance). 
+              The objective is to predict the selling price.  
             </p>
           </div>
         </div>
